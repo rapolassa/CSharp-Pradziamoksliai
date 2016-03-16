@@ -1,0 +1,10 @@
+E:\Visual Studio 2015\Langai\Langai\bin\Debug\Langai.exe.config
+E:\Visual Studio 2015\Langai\Langai\bin\Debug\Langai.exe
+E:\Visual Studio 2015\Langai\Langai\bin\Debug\Langai.pdb
+E:\Visual Studio 2015\Langai\Langai\obj\Debug\Langai.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2015\Langai\Langai\obj\Debug\Langai.Properties.Resources.resources
+E:\Visual Studio 2015\Langai\Langai\obj\Debug\Langai.csproj.GenerateResource.Cache
+E:\Visual Studio 2015\Langai\Langai\obj\Debug\Langai.exe
+E:\Visual Studio 2015\Langai\Langai\obj\Debug\Langai.pdb
+E:\Visual Studio 2015\Langai\Langai\obj\Debug\Langai.langas.resources
+E:\Visual Studio 2015\Langai\Langai\obj\Debug\Langai.Form2.resources
